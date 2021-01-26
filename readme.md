@@ -1,6 +1,10 @@
 # UI Clone Google
 
 <p align="center">
+<img src="assets/images/google.png" alt="Google"/>
+</p>
+
+<p align="center">
   <img alt="Html" src="https://img.shields.io/badge/Tech-Html-red?style=flat-square">
   <img alt="Html" src="https://img.shields.io/badge/Tech-Css-blue?style=flat-square"><br/>
 </p>
